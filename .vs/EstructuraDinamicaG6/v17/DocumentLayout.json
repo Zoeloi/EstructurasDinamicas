@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eddy Jr\\Documents\\Repo estrucutra\\EstructuraDinamicaG6\\",
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Desktop\\EstructurasDinamicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9E6C23C-9E9F-4551-98E4-AA82A900FDD0}|EstructuraDinamicaG6\\EstructuraDinamicaG6.csproj|c:\\users\\eddy jr\\documents\\repo estrucutra\\estructuradinamicag6\\estructuradinamicag6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E9E6C23C-9E9F-4551-98E4-AA82A900FDD0}|EstructuraDinamicaG6\\EstructuraDinamicaG6.csproj|c:\\users\\angel\\onedrive\\desktop\\estructurasdinamicas\\estructuradinamicag6\\formulariopruebaxd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9E6C23C-9E9F-4551-98E4-AA82A900FDD0}|EstructuraDinamicaG6\\EstructuraDinamicaG6.csproj|solutionrelative:estructuradinamicag6\\formulariopruebaxd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E6C23C-9E9F-4551-98E4-AA82A900FDD0}|EstructuraDinamicaG6\\EstructuraDinamicaG6.csproj|c:\\users\\angel\\onedrive\\desktop\\estructurasdinamicas\\estructuradinamicag6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E9E6C23C-9E9F-4551-98E4-AA82A900FDD0}|EstructuraDinamicaG6\\EstructuraDinamicaG6.csproj|solutionrelative:estructuradinamicag6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,10 +23,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FORMULARIOPRUEBAXD.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\EstructurasDinamicas\\EstructuraDinamicaG6\\FORMULARIOPRUEBAXD.cs",
+              "RelativeDocumentMoniker": "EstructuraDinamicaG6\\FORMULARIOPRUEBAXD.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\EstructurasDinamicas\\EstructuraDinamicaG6\\FORMULARIOPRUEBAXD.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EstructuraDinamicaG6\\FORMULARIOPRUEBAXD.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:18:16.827Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\Repo estrucutra\\EstructuraDinamicaG6\\EstructuraDinamicaG6\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\EstructurasDinamicas\\EstructuraDinamicaG6\\Form1.cs",
               "RelativeDocumentMoniker": "EstructuraDinamicaG6\\Form1.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\Repo estrucutra\\EstructuraDinamicaG6\\EstructuraDinamicaG6\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\EstructurasDinamicas\\EstructuraDinamicaG6\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "EstructuraDinamicaG6\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T15:38:49.77Z",
