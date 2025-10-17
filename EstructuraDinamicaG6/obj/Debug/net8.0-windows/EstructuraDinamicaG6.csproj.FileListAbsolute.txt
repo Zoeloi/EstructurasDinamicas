@@ -1,0 +1,17 @@
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\bin\Debug\net8.0-windows\EstructuraDinamicaG6.exe
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\bin\Debug\net8.0-windows\EstructuraDinamicaG6.deps.json
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\bin\Debug\net8.0-windows\EstructuraDinamicaG6.runtimeconfig.json
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\bin\Debug\net8.0-windows\EstructuraDinamicaG6.dll
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\bin\Debug\net8.0-windows\EstructuraDinamicaG6.pdb
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\EstructuraDinamicaG6.Form1.resources
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\EstructuraDinamicaG6.csproj.GenerateResource.cache
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\EstructuraDinamicaG6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\EstructuraDinamicaG6.AssemblyInfoInputs.cache
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\EstructuraDinamicaG6.AssemblyInfo.cs
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\EstructuraDinamicaG6.csproj.CoreCompileInputs.cache
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\EstructuraDinamicaG6.sourcelink.json
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\EstructuraDinamicaG6.dll
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\refint\EstructuraDinamicaG6.dll
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\EstructuraDinamicaG6.pdb
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\EstructuraDinamicaG6.genruntimeconfig.cache
+C:\Users\Eddy Jr\Documents\Repo estrucutra\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\net8.0-windows\ref\EstructuraDinamicaG6.dll
